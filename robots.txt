@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://oasis.jmarchini.org/sitemap.xml
